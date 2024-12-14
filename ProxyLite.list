@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-KEYWORD,nodeseek
+DOMAIN-SUFFIX,frostsky.com
+DOMAIN-KEYWORD,frostsky
+
 # IP段匹配
 
 
